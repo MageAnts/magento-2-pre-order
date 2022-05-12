@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Pre Order Extension</h2>
+				<h1>Magento 2 Pre Order Extension</h1>
 				<p><strong><a href="https://www.mageants.com/pre-order-extension-for-magento-2.html">Magento 2 Pre Order Extension</a></strong> tool allows the customer to place an order for currently unavailable or out-of-stock products. The customers can add the product to the cart, pay the amount and proceed with the checkout order, and they will be shown the expected delivery time and day of unavailable products.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Maintain store reputation.</li>
 						<li>Increase the number of order even in the unavailability of product.</li>
